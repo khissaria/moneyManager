@@ -1,0 +1,10 @@
+const learning = [
+    { id: 1, body: 'No matter how much money you have, always remember that you’re much more fortunate than many others. Treat your money like it could go away tomorrow and don’t overspend. This applies to both your personal and business finances.', author: 'Kara Goldin', title: 'Founder, Hint Inc',imgName:'https://i0.wp.com/www.worth.com/wp-content/uploads/2020/01/2019-12_Robert-Meares_NYC_01-e1588360991170.jpg?fit=1590%2C1442&ssl=1' },
+    { id: 2, body: 'When selling or reselling Equity or goods, going for the highest profit margin possible can really increase your bottom line. Just dont price your offer so high that you drive away current and potential customers and the money you could make.', author: 'Benjamin Kapelushnik', title: 'Founder, Sneakr Inc',imgName:'https://randomuser.me/api/portraits/men/32.jpg' },
+    { id: 3, body: 'It is smart to incorporate wealth management tools into your routine. Look for tools that can help you analyze, calculate and track your money. Plenty of free options exist online. Without these tools, you might find it harder to make true financial progress.', author: 'John Crossman', title: 'Owner, Crossman & Co.',imgName: 'https://crossmancb.com/bc/wp-content/uploads/crossman-career-builders-home-crossman-hero-silo.png'},
+    { id: 4, body: 'Every week I have money automatically transferred from my checking to my savings. When I was young it was $25 a week. Now it’s about $1,000 per week. I never miss the money, and I can’t see it in the savings account without logging in.', author: 'Ryan Stewman', title: 'Millionaire',imgName:'https://d2p078bqz5urf7.cloudfront.net/influencer/images/profile/Ryan-Stewman.jpg' },
+    { id: 5, body: ('Tomorrow or That Day will never come. The only way to fight procastination is to get started TODAY, NOW, ABHI! Spring into action. Dont make plans for future. Simple productivity hack. Often Overlooked!'),author:'Tanay Pratap', title: 'Developer, Microsoft',imgName:'https://yt3.ggpht.com/ytc/AKedOLQnvobEXpzHCxB1g-q2aXbRDzSaznFVHo5OdFML=s900-c-k-c0x00ffffff-no-rj' }
+
+]
+
+export default learning;
